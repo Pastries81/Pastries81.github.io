@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+    margin: 0px;
+    overflow: hidden;
+    padding: 0px;
+    width: 100%;
+}
+
+#myCanvas {
+    background-color: black;
+    height: initial;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
